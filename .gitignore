@@ -1,0 +1,7 @@
+# Maven ignorances
+/target/
+
+# Eclipse ignorances
+/.classpath
+/.project
+/.settings
